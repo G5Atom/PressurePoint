@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2228651116",
+    "Type": "User",
+    "GUID": "{9CC07426-2182-4C64-951C-C0E60ABBA8A9}",
+    "Language": "SFX",
+    "Hash": "{08DF9782-1DC6-4E9C-B13A-266E8284918B}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main_Soundbank",
+    "ShortName": "Main_Soundbank",
+    "Path": "Main_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "7472277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "523650__lilmati__powerup-06.wav",
+      "CachePath": "0C/{0CCBC151-07E8-6572-9823-2B1BE5A28AC8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2791894523",
+      "Name": "ObjectPickedUp",
+      "ObjectPath": "\\Events\\Default Work Unit\\ObjectPickedUp",
+      "GUID": "{78B9ACB6-18E2-46B4-A5F6-3A49CA4EA0C6}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.7787755",
+      "DurationMax": "0.7787755",
+      "MediaRefs": [
+       {
+        "Id": "7472277"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{204F85A1-AD42-655C-FAB6-CBE8A3816110}"
+ }
+}

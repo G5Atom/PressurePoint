@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8BDBC82-3A89-45BA-A13B-A54F63467E67}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C8BDBC82-3A89-45BA-A13B-A54F63467E67}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="PickUp" ID="{7B9CD9B5-C0A0-4C4D-91C4-8C96C2C1FB75}" ShortID="111520863">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0F533D18-63AB-4AC2-8049-943EAB604FF6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0FD0B5C3-9240-42D5-9E6D-7471512669B7}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="523650__lilmati__powerup-06" ID="{8B637782-0006-4421-BBD1-DED92CC3671D}">
+							<Language>SFX</Language>
+							<AudioFile>523650__lilmati__powerup-06.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="7472277"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="523650__lilmati__powerup-06" ID="{8B637782-0006-4421-BBD1-DED92CC3671D}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

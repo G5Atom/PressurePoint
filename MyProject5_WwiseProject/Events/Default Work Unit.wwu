@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2F6F4100-1CA9-473A-A134-FB1A526E62CF}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{2F6F4100-1CA9-473A-A134-FB1A526E62CF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="ObjectPickedUp" ID="{78B9ACB6-18E2-46B4-A5F6-3A49CA4EA0C6}">
+					<ChildrenList>
+						<Action Name="" ID="{A83BC79F-3F29-4768-ACFC-3EC3787941A6}" ShortID="724404392">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PickUp" ID="{7B9CD9B5-C0A0-4C4D-91C4-8C96C2C1FB75}" WorkUnitID="{C8BDBC82-3A89-45BA-A13B-A54F63467E67}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

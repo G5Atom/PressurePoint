@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2791894523	ObjectPickedUp			\Default Work Unit\ObjectPickedUp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7472277	PickUp	C:\Users\harry.osullivan\Documents\Unreal Projects\MyProject5\MyProject5_WwiseProject\.cache\0C\{0CCBC151-07E8-6572-9823-2B1BE5A28AC8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\PickUp		137472
+
