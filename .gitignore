@@ -28,6 +28,7 @@
 # Executables
 *.exe
 *.out
+*.bnk
 *.app
 *.ipa
 
