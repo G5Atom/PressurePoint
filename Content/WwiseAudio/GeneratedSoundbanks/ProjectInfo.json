@@ -3,7 +3,7 @@
   "Project": {
    "Name": "MyProject5_WwiseProject",
    "GUID": "{6E8C64D3-916C-4424-B2EC-AA10703DE0B7}",
-   "Generator": "2024.1.8.8893"
+   "Generator": "2024.1.8.8898"
   },
   "CacheRoot": "../../../MyProject5_WwiseProject/.cache",
   "Platforms": [
@@ -31,6 +31,6 @@
     "UseAsStandIn": "true"
    }
   ],
-  "FileHash": "{30EEA8C2-25FC-15A7-34E7-59949E0FC225}"
+  "FileHash": "{E142D403-4602-CF86-7871-16A38F989428}"
  }
 }
